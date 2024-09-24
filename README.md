@@ -35,7 +35,7 @@
 ## How to install the tool
 
 1. clone the project via github:
-> git clone ["link"](https://github.com/GhislottiGianluca/ImproveEvosuiteTestsReadabilityUsingLLM.git)
+> git clone https://github.com/GhislottiGianluca/ImproveEvosuiteTestsReadabilityUsingLLM.git
 
 2. Open the terminal and get in the root of the project.
 
